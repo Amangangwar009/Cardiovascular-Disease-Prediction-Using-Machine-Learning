@@ -1,1 +1,1 @@
-# Cardiovascular-Disease-Prediction-Using-Machine-Learning
+Cardiovascular diseases (CVDs) are one of the leading causes of death globally. Early detection is crucial to prevent serious health complications. This project focuses on developing a machine learning model to predict the risk of cardiovascular disease based on patient data.
